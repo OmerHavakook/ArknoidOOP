@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Cp1255" standalone="no"?>
+<jardesc>
+    <jar path="ass5/ass5game.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/ass3/ass5game.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/ass5/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/ass5/.project"/>
+        <javaElement handleIdentifier="=ass5/src"/>
+        <file path="/ass5/.classpath"/>
+    </selectedElements>
+</jardesc>

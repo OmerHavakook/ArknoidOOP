@@ -1,0 +1,16 @@
+
+# 203345087
+# Omer Havakook
+compile: bin
+	javac -cp src -d bin src/Factorial.java src/DescribeNumbers.java src/Sort.java
+
+run1:
+	java -cp bin Factorial
+
+run2:
+	java -cp bin DescribeNumbers
+run3:      java -cp bin Sort.java
+
+
+bin:
+	mkdir bin
